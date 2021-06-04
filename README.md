@@ -13,8 +13,12 @@ To See it Run the following in commands line after installing virtual env:
 go to ablog directory:
 
 --python manage.py makemigrations
+
 --python manage.py migrate
+
 --python manage.py runserver
+
+
 
 
 Credit: codemy.com
