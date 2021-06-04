@@ -6,4 +6,4 @@ Features: Add Post, Delete Post, Update Post, View Post, Comment Section.
 
 Added Features: User Model Integration with every post, with Django auth. 
 
-Tutorial Credit: codemy.com
+Credit: codemy.com
