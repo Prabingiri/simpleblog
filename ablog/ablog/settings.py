@@ -87,9 +87,9 @@ DATABASES = {
     #
     #     'NAME': 'simpleblog',
     #
-    #     'USER': 'postgres',
+    #     'USER': 'username',
     #
-    #     'PASSWORD': 'Prabeen@1',
+    #     'PASSWORD': 'password'
     #
     #     'HOST': '127.0.0.1',
     #
